@@ -1,0 +1,1 @@
+# AI "Modern model" challenge from barKod hackathon
